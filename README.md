@@ -145,3 +145,7 @@ Voting: 0xd24a32f0ee12f5e9d233a2ebab5a53d4d4986203
 Saving successful migration to network...
 Saving artifacts...
 ```
+Run the index.js which starts the web server, connects to the ethereum smart contract
+```
+node index.js
+```
