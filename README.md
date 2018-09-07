@@ -2,6 +2,16 @@
 
 This repository holds the setup and the deployment of a Property Asset Hash Storage smart contract into Ethereum.
 
+## Introduction
+
+Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third-party interference.
+
+### Ethereum has a few public test blockchains and one main blockchain.
+
+Testnet: There are a few test blockchains such as Ropsten, Rinkeby, Kovan. Think of these as a QA or a staging server, they are used for testing purposes only. All the Ether you use on these networks is fake.
+
+Mainnet (also called Homestead): This is the blockchain which the entire world transacts on for real. There is real value to the Ether you use on this network.
+
 ## Install geth and sync the blockchain
 Install geth - the client software used to download the blockchain and run the Ethereum node on your local machine.
 
